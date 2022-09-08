@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Sort1 is the fastest among three programs when sorting sorted numbers.
+
+sort2 uses: Merge Sort
+
+How do you know?: Sort2 is the fastest among three programs when sorting random numbers.
+
+sort3 uses: Selection Sort
+
+How do you know?: Sort3 has relatively similar performance with sort1 when sorting random numbers.
